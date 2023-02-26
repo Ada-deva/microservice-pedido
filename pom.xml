@@ -12,7 +12,7 @@
 	<artifactId>microservice.pedido</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>microservice.pedido</name>
-	<description>Microservice template for Spring Boot projects</description>
+	<description>Microservice pedido for Spring Boot projects</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>

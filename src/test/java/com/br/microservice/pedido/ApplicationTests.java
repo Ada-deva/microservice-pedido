@@ -1,4 +1,4 @@
-package com.br.microservice.template;
+package com.br.microservice.pedido;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

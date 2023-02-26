@@ -1,4 +1,4 @@
-package com.br.microservice.template;
+package com.br.microservice.pedido;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -17,6 +17,6 @@ public class Application {
 	@RequestMapping("/v1/microsservice")
 	@ResponseBody
 	String home(){
-		return "Microsservice-template 1.0";
+		return "Microsservice-pedido 1.0";
 	}
 }
