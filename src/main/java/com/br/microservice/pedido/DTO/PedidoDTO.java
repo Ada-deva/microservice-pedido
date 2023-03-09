@@ -37,7 +37,7 @@ public class PedidoDTO {
 
     public Pedido toEntity (){
 
-        Pedido.builder()
+       return Pedido.builder()
                 .valorTotalPedido(valorTotalPedido)
                 .listaMenuDTO(listaMenu)
                 .id(id)
